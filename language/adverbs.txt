@@ -1,0 +1,143 @@
+very
+really
+quickly
+slowly
+often
+always
+never
+well
+badly
+hard
+easily
+fast
+early
+late
+soon
+now
+then
+today
+tomorrow
+yesterday
+here
+there
+everywhere
+nowhere
+somewhere
+anywhere
+down
+up
+out
+in
+off
+on
+away
+back
+together
+apart
+forward
+backward
+horizontally
+vertically
+inside
+outside
+above
+below
+near
+far
+anyhow
+anyway
+elsewhere
+thus
+hence
+therefore
+wherefore
+however
+nevertheless
+nonetheless
+notwithstanding
+consequently
+accordingly
+henceforth
+otherwise
+meanwhile
+forthwith
+afterwards
+afterward
+ahead
+alight
+already
+almost
+anon
+anew
+at present
+at length
+at once
+at the same time
+by and by
+by this time
+by the time
+daily
+directly
+earlier
+each time
+e'er
+eer
+eventually
+ever
+every time
+formerly
+frequently
+generally
+hardly
+hourly
+immediately
+in the meantime
+in the meanwhile
+instantly
+lastly
+later
+lately
+long
+long ago
+momentarily
+monthly
+next
+next time
+nightly
+occasionally
+once
+once upon a time
+presently
+previously
+rarely
+rather
+recently
+regularly
+seldom
+shortly
+since
+sometimes
+soon afterward
+still
+straightaway
+subsequently
+suddenly
+thence
+thenceforth
+thereabout
+thereafter
+thereby
+thereupon
+tonight
+twice
+ultimately
+weekly
+when
+whence
+whenever
+where
+whereupon
+wherever
+while
+yearly
+yet
